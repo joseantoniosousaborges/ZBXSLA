@@ -1,5 +1,5 @@
 # ZBXSLA
-Monitoramento de SLA com ZABBIX, atraves da API.
+Monitoramento de SLA com ZABBIX, através da API.
 
 ## Metodos criados .
 
